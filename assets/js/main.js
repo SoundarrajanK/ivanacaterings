@@ -173,7 +173,7 @@
     loop: true,
     autoplay: {
       delay: 5000,
-      disableOnInteraction: false
+      disableOnInteraction: false,
     },
     slidesPerView: 'auto',
     pagination: {
@@ -183,7 +183,7 @@
     },
     breakpoints: {
       320: {
-        slidesPerView: 2,
+        slidesPerView: 1,
         spaceBetween: 40
       },
       480: {
@@ -196,7 +196,7 @@
       },
       992: {
         slidesPerView: 3,
-        spaceBetween: 120
+        spaceBetween: 100
       }
     }
   });
