@@ -1565,3 +1565,7 @@ section {
 .swiper-slide {
   text-align: center;
 }
+
+.call {
+  font-size: 25px;
+}
